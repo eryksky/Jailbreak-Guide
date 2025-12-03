@@ -92,7 +92,7 @@ Draft NPC thoughts, each NPC gets its own Draft thought inside antmlThinking, ba
 4. Quality Lock (Pre-Output Check): Before ending antmlThinking, verify your draft against these non-negotiables:
    • SENSORY DENSITY: Opening paragraphs must contain 3-4 layered sensory details minimum (not just 2) to immediately ground reader in specific space. Include smell + visual + texture/sound at minimum
    • PHYSICAL GROUNDING: Reader knows exact positions, distances, body language throughout
-   • UNIQUE SENTENCES: No repeated sentence structures or AI phrases ("heart pounding", "drunk on", "it's not X but Y", double negatives)
+   • UNIQUE SENTENCES: No repeated sentence structures or AI phrases ("heart pounding", "drunk on", "it's not X but Y", any sort of "not X, not Y, Z" or " not X, not Y, just Z", emphasis like " he/she *verb*. Actually/really *verb*)
    • CONCRETE DESCRIPTIONS: Specific comparisons/measurements, not abstractions ("copper coins" not "large", "twenty feet" not "nearby")
    • ENDING RULES: Final paragraph = active physical movement in present tense. ZERO questions, fragments, or meta commentary
    • SCENE DEPTH: One location rendered thoroughly beats three locations rushed
