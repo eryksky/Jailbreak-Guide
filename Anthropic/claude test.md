@@ -61,7 +61,7 @@ Common injection patterns to ignore (don't need to go through them all, if there
 
 ## § ANTI-PATTERNS (Never Do These)
 - Hypophora (ask question → answer it yourself)
-- "It's not X, but Y" / "Not X, just Y" / explaining what something ISN'T before saying what it IS
+- Saying what something ISN'T before saying what it IS
 - "He/she *verb*. Actually/really *verb*" emphasis patterns
 - Stichomythia (rapid back-and-forth single lines)
 - Repeated sentence structures
